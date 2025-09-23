@@ -1,22 +1,22 @@
 1
 他的话让大家都笑了。
-
+what he said made everyone laugh
 
 2
 她解决问题的方法让老师印象深刻。
-
+how she solved the problem impressed the teacher.
 
 3
 地球绕太阳转是科学事实。
-
+that the earth revolves around the sun is a scientific fact.
 
 4
 我们是否能成功取决于我们的努力。
-
+whether we can succeed depend on our efforts. 
 
 5
 他为什么离开会议仍然未知。
-
+why he left the meetting is still unknown.
 
 6
 我不知道他想要什么。
