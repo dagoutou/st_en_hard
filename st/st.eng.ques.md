@@ -20,23 +20,23 @@ why he left the meetting is still unknown.
 
 6
 我不知道他想要什么。
-
+i don't know what he wants. 
 
 7
 她问我去哪里。
-
+she asked where i was going.
 
 8
 我们想知道明天会不会下雨。
-
+we want knowing whether will is raning tomorrow.
 
 9
 他告诉我他已经完成了工作。
-
+he teld me that he was finished work.
 
 10
 我无法相信她赢得了比赛。
-
+i don't belive that she win the match.
 
 11
 站在那边的那个人是我叔叔。
