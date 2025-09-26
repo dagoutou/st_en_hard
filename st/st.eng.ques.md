@@ -28,11 +28,11 @@ she asked where i was going.
 
 8
 我们想知道明天会不会下雨。
-we want knowing whether will is raning tomorrow.
+we wonder whether it will rain tomorrow.
 
 9
 他告诉我他已经完成了工作。
-he teld me that he was finished work.
+he teld me that he had finished the work.
 
 10
 我无法相信她赢得了比赛。
@@ -40,23 +40,23 @@ i don't belive that she win the match.
 
 11
 站在那边的那个人是我叔叔。
-
+the man who is standing over there is my uncle.
 
 12
 我读了一本讲解量子物理的书。
-
+i read a book which explains quantum physics.
 
 13
 她喜欢我昨天买的那条裙子。
-
+he like the dress that i bougth yesterday.
 
 14
 我出生的房子现在是一座博物馆。
-
+the house where i was born is now  a museum.
 
 15
 他记不起来自己迟到的原因了。
-
+he couldn’t remember the reason why  he was late.
 
 16
 我完成作业后会给你打电话。
