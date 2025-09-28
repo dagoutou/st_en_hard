@@ -60,19 +60,24 @@ he couldn’t remember the reason why  he was late.
 
 16
 我完成作业后会给你打电话。
-
+i will call you when i finish my homework.
+I will call you after I finish my homework.
+在表示将来的时间状语从句（when, after, before, as soon as, if 等引导的从句）里，英语用一般现在时代替将来时。
 
 17
 她因为生病待在家里。
-
+he stay at home why he is still.
+She stayed home because she was sick.
 
 18
 如果明天下雨，我们将取消野餐。
-
+if it rains tomorrow,we will cancel the picnic.
 
 19
 尽管他很累，他还是继续工作。
-
+although he is tired,but he still work.
+althoufh he is tired,he still works.
+Although he was tired, he kept working.
 
 20
 我们赶紧走，以便赶上火车。
